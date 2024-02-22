@@ -1,0 +1,6 @@
+ReceiverName IPAddress PortNumber
+Sapphire1.uhcl.edu localhost 12223
+Sapphire2.uhcl.edu localhost 12223
+Sapphire3.uhcl.edu localhost 12223
+Sapphire4.uhcl.edu localhost 12223
+Sapphire5.uhcl.edu localhost 12223
